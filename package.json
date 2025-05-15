@@ -47,7 +47,7 @@
     "markdown-it": "13.0.2",
     "modern-screenshot": "4.4.39",
     "mp4-muxer": "^2.3.0",
-    "nuxt": "^3.13.2",
+    "nuxt": "^3.16.0",
     "pica": "7.1.0",
     "pinia": "2.2.4",
     "radix-vue": "^1.7.3",
